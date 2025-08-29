@@ -259,7 +259,7 @@ const menuDetails = {
   },
   lemonade: {
     title: 'Lemonade',
-    img: 'images/Lemonda.jpeg',
+    img: 'Images/Lemonda.jpeg',
     price: '$2.95',
     desc: 'Freshly squeezed lemonade, perfect for summer.',
     details: ['Freshly Squeezed', 'Summer Special'],
